@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.btnColor {
+    background-color: red;
+    color: white;
+}
+
+#btn {
+    padding: 20px;
+}
+
+
+
+.add {
+
+    color: green;
+    font-weight: 700;
+    font-size: 2rem;
+
+}
+
+#voyage {
+    color: red;
+}
